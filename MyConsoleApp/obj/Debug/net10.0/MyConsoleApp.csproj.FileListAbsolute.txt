@@ -1,0 +1,14 @@
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll

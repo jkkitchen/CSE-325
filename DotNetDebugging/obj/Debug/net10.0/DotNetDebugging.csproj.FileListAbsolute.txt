@@ -1,0 +1,14 @@
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.exe
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.deps.json
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.runtimeconfig.json
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.pdb
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\refint\DotNetDebugging.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.pdb
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\DotNetDebugging\obj\Debug\net10.0\ref\DotNetDebugging.dll
