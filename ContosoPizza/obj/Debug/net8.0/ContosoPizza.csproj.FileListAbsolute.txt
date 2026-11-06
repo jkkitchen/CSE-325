@@ -33,3 +33,4 @@ C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\ContosoPizza\obj\Debug\net8.0\re
 C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\jeffk\Desktop\Jessica\Pathways\CSE 325\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json

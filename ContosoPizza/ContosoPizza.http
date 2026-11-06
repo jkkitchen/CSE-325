@@ -77,23 +77,28 @@ Content-Type: application/json
 //Code 201 Created
 ###
 
-GET {{ContosoPizza_HostAddress}}/pizza/5
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
+
+###
+
+GET {{ContosoPizza_HostAddress}}/pizza/3
 Accept: application/json
 //Code 200 OK
 ###
 
-PUT {{ContosoPizza_HostAddress}}/pizza/5
+PUT {{ContosoPizza_HostAddress}}/pizza/4
 Content-Type: application/json
 
 {
-    "id": 5,
+    "id": 4,
     "name": "Pepperoni Party",
     "isGlutenFree": false
 }
 //Code 204 No Content
 ###
 
-DELETE {{ContosoPizza_HostAddress}}/pizza/5
+DELETE {{ContosoPizza_HostAddress}}/pizza/4
 //Code 204 No Content
 ###
 
