@@ -1,3 +1,17 @@
 **/bin/
 **/obj/
 .vs/
+
+# Visual Studio temporary files
+.vs/
+
+# Local SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Microsoft Office temporary files
+~$*
+
+# Team project (separate repository)
+/GroupProject/
